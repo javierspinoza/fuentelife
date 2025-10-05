@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+1. los estilos a usar van hacer Tailwind CSS v4 y tw-animate-css para animaciones
+2. estamos usando Vue 3 con TypeScript, Inertia.js (@inertiajs/vue3), incluye lucide-vue-next para iconos y es un proyecto en laravel 12
+3. Usar las mejores paracticas para escribir codigo con laravel 12
